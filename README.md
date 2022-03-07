@@ -1,6 +1,6 @@
 OláaaaAAaLa ! <br>
 Sou a Rafael Lacana (Yoshimitsuy) <br>
-engenheiro, campeão de Muay Thai e programador <br>
+engenheiro e programador <br>
 
 <div align="center">
   <a href="https://github.com/Yoshimitsuy">
