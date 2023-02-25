@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=yoshimitsuy&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=c612d3&bar_color_cover=true" /></div>  
 
 ### <div align="center">Olá ! Sou Rafael Lacana  👨‍💻 Sou Engenheiro e Dev. Full Stack 🚀</div>  
   
@@ -102,7 +99,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=yoshimitsuy&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=c612d3&bar_color_cover=true" /></div>  
+  
 
 <br/>  
 
@@ -123,4 +120,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Toda positividade eu desejo a você ❤ <a href="https://linktr.ee/yoshimitsuy" target="_blank">Rafael Yoshimituy</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
